@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw
+    database: DBTDATABSE
+    schema: staging
+    tables:
+      - name: orders
