@@ -1,0 +1,6 @@
+Incremental Materialzation
+1) append
+2) merge
+3) delete + insert
+4) insert overwrite
+

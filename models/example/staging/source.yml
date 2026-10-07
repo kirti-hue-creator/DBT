@@ -6,3 +6,5 @@ sources:
     schema: staging
     tables:
       - name: orders
+      - name: CUSTOMERS
+      - name: products
